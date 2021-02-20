@@ -1,0 +1,3 @@
+User-agent: Baiduspider
+Disallow: /2008/01/01/Heroku-V2ray/
+Sitemap: https://bili33.top/baidusitemap.xml
